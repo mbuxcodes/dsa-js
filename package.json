@@ -1,0 +1,24 @@
+{
+  "name": "dsa-js",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This repository contains my complete Data Structures and Algorithms learning journey in JavaScript.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbuxcodes/dsa-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbuxcodes/dsa-js/issues"
+  },
+  "homepage": "https://github.com/mbuxcodes/dsa-js#readme"
+}
